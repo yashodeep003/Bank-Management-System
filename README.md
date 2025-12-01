@@ -54,16 +54,25 @@ View → Handles user interaction (menu, input, output)
 BankSystem/
 │
 ├── Transaction.java
+
 ├── TransactionManager.java
+
 ├── Account.java (abstract)
+
 ├── SavingsAccount.java
+
 ├── CurrentAccount.java
+
 ├── SalaryAccount.java
+
 ├── LoanAccount.java
 │
 ├── BankModel.java
+
 ├── BankController.java
+
 ├── BankView.java
+
 │
 └── Main.java
 
