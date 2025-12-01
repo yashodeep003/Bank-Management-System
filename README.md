@@ -67,6 +67,7 @@ BankSystem/
 
 ├── LoanAccount.java
 │
+
 ├── BankModel.java
 
 ├── BankController.java
@@ -93,34 +94,59 @@ javac Main.java
 java Main
 
 📜 Menu Options
+
 1. Create Account
+
 2. Deposit
+
 3. Withdraw
+
 4. Show Account Details
+
 5. End of Day Report
+
 6. Save Report
+
 0. Exit
 
 🧾 Example Account Creation
+
 Savings Account
+
 Account Type: savings
+
 Account No: 101
+
 Owner Name: Yash
+
 Initial Balance: 5000
 
+
+
 Loan Account
+
 Account Type: loan
+
 Account No: 501
+
 Owner Name: Rohit
+
 Loan Amount: 200000
+
 
 📈 End of Day Report Example
 
+
 Shows:
+
 Every account created
+
 Current balance
+
 All transactions
+
 Summary of bank operations
+
 
 🛠️ Technologies Used
 
