@@ -5,31 +5,50 @@ Bank Management System ( Console-Based ) in Java using MVC architecture. Support
 ✅ Account Types Supported
 
 Savings Account
+
 Current Account
+
 Salary Account
+
 Loan Account
+
 
 🔐 Core Banking Operations
 Create new account
+
 Deposit money
+
 Withdraw money
+
 Apply interest (Savings & Loan)
+
 Pay EMI (Loan account)
+
 Transaction logging
+
 Delete account
+
 
 📊 Reporting
 
 End-of-day detailed report
+
 Per-account transaction report
+
 Summary of accounts, balances, and transactions
+
 
 🧱 Architecture Used
 
 The application follows MVC architecture:
+
 Model → Handles account data and storage
+
 Controller → Controls operations (deposit, withdraw, interest…)
+
 View → Handles user interaction (menu, input, output)
+
+
 
 📂 Project Structure
 BankSystem/
@@ -97,6 +116,9 @@ Summary of bank operations
 🛠️ Technologies Used
 
 Java 8+
+
 OOP Concepts
+
 Collections Framework
+
 Date & Time API (java.time)
